@@ -1,0 +1,12 @@
+.body{
+    background-image: url(../Latihan_pertama/about.jpg);
+}
+
+.card{
+    border: 2px solid rgb(253, 251, 251);
+    background-color: bisque;
+    color: aliceblue;
+    padding: 35px;
+    margin: 10;
+    box-shadow: 2px 2px 2px 2px turquoise;
+}
